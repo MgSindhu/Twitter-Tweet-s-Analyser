@@ -29,3 +29,10 @@ Twitter Data : File created after every query on the web app
 Requirements.txt: Requirement file
 
 setup.sh : predefined file for streamlite on heroku
+
+# Results
+#### Word Cloud
+
+<p align="center">
+  <img width="1000" src="WC.jpg">
+</p>
